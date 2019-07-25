@@ -1,1 +1,0 @@
-(pwd)/colors/nova.vim
